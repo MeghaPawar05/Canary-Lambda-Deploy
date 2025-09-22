@@ -80,7 +80,8 @@ import json
 Some responses will show v1.
 
 Some will show v2 (based on canary %).
-<img width="1907" height="484" alt="Screenshot 2025-09-23 004514" src="https://github.com/user-attachments/assets/f43f6d85-706a-43bd-b25c-f01673f0f346" />
+<img width="1907" height="484" alt="Screenshot 2025-09-23 004514" src="https://github.com/user-attachments/assets/faa4dfda-4871-4254-9851-95d12f837265" />
+
 
 
 
